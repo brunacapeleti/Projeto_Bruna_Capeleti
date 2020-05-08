@@ -6,7 +6,7 @@ class D{
     D();
     void MD1();
     void MD2();
-    void MD4();
+    void MD3();
 };
 
 D::D(){
@@ -22,8 +22,11 @@ void D::MD2(){
     cout << "MD2" << endl;
 }
 
-void D::MD4(){
-    cout << "MD4" << endl;
+void D::MD3(){
+    cout << "MD3" << endl;
 }
+
+
+
 
 
