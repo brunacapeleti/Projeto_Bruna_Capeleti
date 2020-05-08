@@ -26,6 +26,9 @@ void D::MD3(){
     cout << "MD3" << endl;
 }
 
+void D::MD4(){
+    cout << "MD4" << endl;
+}
 
 
 
