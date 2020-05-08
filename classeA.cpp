@@ -40,6 +40,9 @@ void A::MA2(){
   cout << A2 << endl;
 }
 
+void A::MA3(){
+    cout << "Alteração da Classe A a partir do clone" << endl;
+}
 
 
 
