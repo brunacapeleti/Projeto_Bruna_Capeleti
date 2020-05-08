@@ -6,6 +6,7 @@ class C{
     C();
     void MC1();
     void MC2();
+    void MC3();
 };
 
 C::C(){
@@ -19,4 +20,8 @@ void C::MC1(){
 
 void C::MC2(){
     cout << "MC2" << endl;
+}
+
+void C::MC3(){
+    cout << "MC3" << endl;
 }

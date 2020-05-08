@@ -9,6 +9,7 @@ class A{
       void setA2(int valor2);
       void MA1();
       void MA2();
+      void MA3();
 };
 
 A::A(){

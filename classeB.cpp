@@ -9,6 +9,7 @@ class B{
       void setB2(int valor2);
       void MB1();
       void MB2();
+      void MB3();
 };
 
 B::B(){
@@ -38,4 +39,8 @@ void B::MB1(){
 
 void B::MB2(){
   cout << B2 << endl;
+}
+
+void B::MB3(){
+    cout << "MB3" << endl;
 }
