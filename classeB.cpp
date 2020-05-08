@@ -41,7 +41,6 @@ void B::MB2(){
   cout << B2 << endl;
 }
 
-
 void B::MB3(){
     cout << "MB3" << endl;
 }
